@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 
-/* @keyframes size {
+@keyframes size {
   0% {
     transform: ;
   }
@@ -57,7 +57,7 @@
   to {
     transform: rotate(3deg) translateX(-1px);
   }
-} */
+}
 
 /* Reset */
 body {
